@@ -111,6 +111,14 @@ margin-bottom: 30px;
     margin: 0 auto; 
 }
 
+/* Grid Styles */
+.grid-col-2 {
+display: grid;
+grid-template-columns: repeat(2, 1fr) ;
+align-items: center;
+justify-content: space-between;
+}
+
 /* Buttons */
 .btn {
     cursor: pointer;
