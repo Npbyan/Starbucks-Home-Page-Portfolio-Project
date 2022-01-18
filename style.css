@@ -13,8 +13,7 @@
 
 html,
 body {
-    font-family: 'Open Sans';
-    sans-serif;
+    font-family: 'Open Sans', sans-serif;
     line-height: 1.4;
     color: #000;
 }
@@ -282,15 +281,15 @@ section a {
 /* Padding */
 
 .py-sm {
-    padding 10x 0;
+    padding: 10px 0px;
 }
 
 .py-md {
-    padding 10x 0;
+    padding: 10px 0px;
 }
 
 .py-lg {
-    padding 10x 0;
+    padding: 10px 0px;
 }
 
 
