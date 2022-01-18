@@ -304,6 +304,7 @@ section a {
     border: none;
     z-index: 10;
     transition: all 0.25s;
+    display: none;
 }
 
 .hamburger-top,
